@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Volume Toggle</string>
+    <string name="volume_up_tile_name">Volume Up</string>
+    <string name="volume_down_tile_name">Volume Down</string>
+</resources>
